@@ -1,5 +1,5 @@
-﻿double a = 7.9;
-double b = 7.6;
+﻿int a = 9;
+int b = 6;
 
 if (a > b) {
     Console.WriteLine(a);
